@@ -28,8 +28,8 @@ Script will run and output the number of inliers, max inliers found via RANSAC. 
 
 #####These are the original images: 
 
-![Original Image 1](img1.pgm)
-![Original Image 4](img4.pgm)
+![Original Image 4](img4.png)
+![Original Image 1](img1.png)
 
 #####Finding our keypoints using SIFT:
 
